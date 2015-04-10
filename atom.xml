@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2015-04-10T16:21:09+02:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[My Big Station]]></title>
+  <link href="http://jdkapy.github.io/BigStation/atom.xml" rel="self"/>
+  <link href="http://jdkapy.github.io/BigStation/"/>
+  <updated>2015-04-10T17:28:06+02:00</updated>
+  <id>http://jdkapy.github.io/BigStation/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[jdkapy]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[hora_mulo]]></title>
+    <link href="http://jdkapy.github.io/BigStation/blog/2015/04/10/hora-mulo/"/>
+    <updated>2015-04-10T17:26:41+02:00</updated>
+    <id>http://jdkapy.github.io/BigStation/blog/2015/04/10/hora-mulo</id>
+    <content type="html"><![CDATA[<p>Tener un Hijo, escribir un Napset y Plantar un arbol es un mantra que nos hemos escuchado por años, en una noche de insomnio mezcle estos conceptos y llegue a unos mas mio: Montar un hijo, Escribir un Napster, tener un Árbol.</p>
+
+<p>Muchos años he querido tener un blog y he intentdo varios, voy un nuevo intento con este en el que voy a incorporar post sobre mis juntadas de teclas #EscribirNapster y sobre los talleres que hago con mi hijo de cuatro años #MontarHijo y mi diario en #TenerArbol.</p>
+]]></content>
+  </entry>
   
 </feed>
