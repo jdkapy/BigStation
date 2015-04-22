@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://jdkapy.github.io/BigStation/sitemap.xml 
+Sitemap: http://jdkapy.github.io/sitemap.xml 
